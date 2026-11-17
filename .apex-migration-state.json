@@ -1,0 +1,7 @@
+{
+  "job_id": "job_550d227a793d",
+  "sourceRepoUrl": "https://github.com/OpenLiberty/guide-gradle-multimodules",
+  "targetJavaVersion": "11",
+  "status": "MIGRATION_CHECKPOINT",
+  "migration_date": ""
+}
